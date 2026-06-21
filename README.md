@@ -96,12 +96,6 @@ A synthetic regression dataset generated using Scikit-Learn to demonstrate regre
 
 ---
 
-## 🏁 Conclusion
-
-Polynomial Regression is a powerful extension of Linear Regression that enables models to learn non-linear patterns through feature transformation. By introducing polynomial terms, it can fit more complex relationships while still using the simplicity of linear models.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -109,3 +103,10 @@ Polynomial Regression is a powerful extension of Linear Regression that enables 
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Polynomial Regression is a powerful extension of Linear Regression that enables models to learn non-linear patterns through feature transformation. By introducing polynomial terms, it can fit more complex relationships while still using the simplicity of linear models.
+
